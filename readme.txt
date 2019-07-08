@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 Git is better than Svn.
 Git online.
-Creating a new branch is quick and simple
+Creating a new branch is quick and simple.
+a.
